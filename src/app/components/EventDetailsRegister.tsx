@@ -55,7 +55,7 @@ const EventRegister = () => {
           </div>
           <div className="px-2 md:px-40 block">
             <Link
-              href="https://docs.google.com/forms/d/e/1FAIpQLSe1TNogr0bb2_JD56H91wRCJfW8lYGOjJWpkS_bNyLabP6ahw/viewform?usp=dialog"
+              href="https://forms.gle/5uuw2XCXS6kcpm4z6"
               target="_blank"
               className="block w-full text-center px-4 py-3 bg-blue-950 rounded-lg text-white text-xs md:text-sm font-bold hover:bg-blue-900 transition"
             >
