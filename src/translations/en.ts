@@ -22,11 +22,11 @@ const en = {
   program_heading: "Program details",
   program1_title: "Meet And Greet",
   program1_desc:
-    "An open and welcoming space to connect and interact with fellow attendees, organisers and speakers.",
+    "An open and welcoming space to connect and interact with everyone over a warm cup of coffee/tea.",
   program1_time: "03:00 PM",
   program2_title: "Satsang",
   program2_desc:
-    "A cultural congregation",
+    "A blissful spiritual gathering where everyone comes together to elevate their minds and hearts through devotional singing, meditation and reflection, spiritual discourses and energetic keertans.  The collective energy makes the atmosphere deeply transformative.",
   program2_time: "03:30 PM",
   program3_title:
     "Open discussion Forum: From Me to We - A journey beyond Self",

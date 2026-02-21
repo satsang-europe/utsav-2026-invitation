@@ -22,11 +22,11 @@ const nl = {
   program_heading: "Programmaonderdelen",
   program1_title: "Ontmoeting & Kennismaking",
   program1_desc:
-    "Een open en gastvrije ruimte om in contact te komen en te praten met medebezoekers, organisatoren en sprekers.",
+    "Een open en gastvrije ruimte om met iedereen in contact te komen en samen te zijn onder het genot van een warme kop koffie of thee.",
   program1_time: "03:00 PM",
   program2_title: "Satsang",
   program2_desc:
-    "Een culturele gemeente",
+    "Een zalige spirituele samenkomst waar iedereen samenkomt om geest en hart te verheffen door devotioneel zingen, meditatie en bezinning, spirituele voordrachten en energieke kirtans. De collectieve energie maakt de sfeer diep transformerend.",
   program2_time: "03:30 PM",
   program3_title:
     "Open discussieforum: Van Ik naar Wij – Een reis voorbij het Zelf",
